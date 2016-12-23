@@ -1,8 +1,18 @@
 body {
     background-color: #E0F7FF;
     font-family: Menlo;
+    color: #383838;
+}
+
+.container {
+    padding-top: 1.5em;
+    margin: auto;
+    width: 50%;
 }
 
 .title {
     font-size: 3em;
+    margin-bottom: 0.5em;
 }
+
+
