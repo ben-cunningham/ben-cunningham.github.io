@@ -1,3 +1,8 @@
 body {
     background-color: #E0F7FF;
+    font-family: Menlo;
+}
+
+.title {
+    font-size: 3em;
 }
